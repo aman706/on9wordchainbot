@@ -4,6 +4,6 @@ import subprocess
 
 while True:
     try:
-        subprocess.run(["python3.9", "-m", "on9wordchainbot"])
+        subprocess.run(["python3.8", "-m", "on9wordchainbot"])
     except KeyboardInterrupt:
         break
