@@ -8,3 +8,4 @@ asyncpg
 matplotlib
 pillow
 pycairo
+DAWG==0.5.1
