@@ -1,12 +1,12 @@
 {
-    "TOKEN": "",
-    "ON9BOT_TOKEN": "",
-    "DB_URI": "",
+    "TOKEN": "6786924584:AAGANJuypAgA49JfnXNuPpMXtjz9K2ElvNQ",
+    "ON9BOT_TOKEN": "5191453822:AAGFsNnpCA2rAdK70IZ3kg1AXqzlSuLxfs4",
+    "DB_URI": "postgres://aaywaovh:qw-Eqkl45Vx1aLSAFWPjg64ZJ87fTfrW@chunee.db.elephantsql.com/aaywaovh",
     "PROVIDER_TOKEN": "",
-    "OWNER_ID": 69420,
-    "ADMIN_GROUP_ID": 69420,
-    "OFFICIAL_GROUP_ID": 69420,
-    "WORD_ADDITION_CHANNEL_ID": 69420,
+    "OWNER_ID": 5041960003,
+    "ADMIN_GROUP_ID": -1002137770587,
+    "OFFICIAL_GROUP_ID": -1002137770587,
+    "WORD_ADDITION_CHANNEL_ID": -1002016790791,
     "VIP": [],
-    "VIP_GROUP": []
+    "VIP_GROUP": [@ASdqFAEFA]
 }
