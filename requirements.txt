@@ -8,4 +8,5 @@ asyncpg
 matplotlib
 pillow
 pycairo
-DAWG
+git+https://github.com/pytries/DAWG.git
+
