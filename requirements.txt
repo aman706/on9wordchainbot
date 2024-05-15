@@ -7,4 +7,3 @@ asyncpg
 matplotlib
 pillow
 pycairo
-DAWG
