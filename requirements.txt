@@ -1,7 +1,7 @@
 
 aiocache
 aiofiles
-aiogram==3.7.0 
+aiogram==3.6.0 
 aiohttp[speedups]
 asyncio-periodic
 asyncpg
