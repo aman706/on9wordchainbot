@@ -1,4 +1,4 @@
-DAWG==0.5.1
+
 aiocache
 aiofiles
 aiogram
