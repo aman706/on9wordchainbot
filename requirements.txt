@@ -1,7 +1,7 @@
 
 aiocache
 aiofiles
-git+https://github.com/aiogram/aiogram/archive/refs/heads/dev-3.x.zip
+aiogram==3.7.0 
 aiohttp[speedups]
 asyncio-periodic
 asyncpg
